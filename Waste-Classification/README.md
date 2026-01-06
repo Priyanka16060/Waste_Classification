@@ -75,21 +75,6 @@ Visualization: Matplotlib, Tableau Public
 
 Environment: Google Colab
 
-
-Project Structure
-Waste-Classification/
-│
-├── model/
-│   └── waste_classification_mobilenetv2.h5
-│
-├── notebook.ipynb
-│
-├── waste_predictions.csv
-│
-├── dashboard_link.txt
-│
-└── README.md
-
 Folder Details
 
 model/: Saved trained model for reuse, inference, or deployment
